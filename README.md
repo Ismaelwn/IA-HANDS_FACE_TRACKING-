@@ -12,7 +12,7 @@ L'application utilise la webcam en temps réel pour identifier les landmarks des
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/Ismaelwn/HAND_EYE_TRACKER.git
+   git clone https://github.com/Ismaelwn/IA-HANDS_FACE_TRACKING.git
    ```
 2. **Installer les dépendances** :
    ```bash
